@@ -38,13 +38,12 @@ price —  цена за единицу товара
 freight_value —  вес товара
 
 Уникальные статусы заказов в таблице olist_orders_dataset:
-
-created —  создан
-approved —  подтверждён
-invoiced —  выставлен счёт
-processing —  в процессе сборки заказа
-shipped —  отгружен со склада
-delivered —  доставлен пользователю
-unavailable —  недоступен
-canceled —  отменёноект выполненный во время обучения на karpov.courses
+- created —  создан
+- approved —  подтверждён
+- invoiced —  выставлен счёт
+- processing —  в процессе сборки заказа
+- shipped —  отгружен со склада
+- delivered —  доставлен пользователю
+- unavailable —  недоступен
+- canceled —  отменёноект выполненный во время обучения на karpov.courses
 
